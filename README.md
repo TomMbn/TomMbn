@@ -23,9 +23,7 @@ My name is Tom Mauboussin, and I specialize as a Full Stack developer. I excel i
  
 🔭 I’m currently working as **Full Stack Developer**
  
-🌱 I’m currently learning **Digital Business & AI**
-
-💬 Ask me about **Javascript**
+🌱 I’m currently learning **Web Development**
 
 📧 Reach me at: tom.mauboussin@icloud.com
 
