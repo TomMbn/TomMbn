@@ -39,5 +39,5 @@ My name is Tom Mauboussin, and I specialize as a Full Stack developer. I excel i
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![TomMbn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomMbn&show_icons=true&theme=radical)
+![TomMbn's GitHub Stats](https://github-readme-stats-lilac-theta-86.vercel.app/api?username=TomMbn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomMbn&show_icons=true&theme=radical)
