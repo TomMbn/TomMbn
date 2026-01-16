@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="mailto:tom.mauboussin@icloud.com">
-    <img src="https://img.shields.io/badge/Email-36C5F0?style=for-the-badge&logo=icloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tommauboussin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
