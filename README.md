@@ -4,12 +4,12 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-<div align="center"> 
-  <a href="tom.mauboussin@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a> 
+<div align="center">
+  <a href="mailto:tom.mauboussin@icloud.com">
+    <img src="https://img.shields.io/badge/Email-36C5F0?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/tommauboussin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
