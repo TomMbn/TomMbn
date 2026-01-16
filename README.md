@@ -31,7 +31,8 @@ My name is Tom Mauboussin, and I specialize as a Full Stack developer. I excel i
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,vue,bootstrap,tailwind,laravel,express,mongodb,mysql,docker,gitlab,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vue,bootstrap,tailwind,laravel,express,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,gitlab,github,figma" />
 </div>
 
 <br/>
