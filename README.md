@@ -39,4 +39,6 @@ My name is Tom Mauboussin, and I specialize as a Full Stack developer. I excel i
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![TomMbn's GitHub Stats](https://github-readme-stats-lilac-theta-86.vercel.app/api?username=TomMbn&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-lilac-theta-86.vercel.app/api?username=TomMbn&show_icons=true&theme=radical" alt="TomMbn's GitHub Stats" />
+</div>
